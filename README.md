@@ -6,5 +6,3 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Neloy-SWE&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Neloy-SWE&theme=tokyonight&hide_border=true" width="49%" >
-
-<a href="https://stardev.io/developers/Neloy-SWE"><img alt="Check out Neloy-SWE&apos;s profile on stardev.io" src="https://stardev.io/developers/Neloy-SWE/badge/languages/global.svg" /></a>
